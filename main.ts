@@ -1,4 +1,5 @@
 // One line, at most 160 characters.
+// Exactly one line, nothing else.
 import { mkdirSync, writeFileSync } from "node:fs";
 
 const entry = "One star. Drops everything I own, then acts like it was my fault for letting go.";
