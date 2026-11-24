@@ -1,8 +1,7 @@
-// One line, at most 160 characters.
-// Exactly one line, nothing else.
 import { mkdirSync, writeFileSync } from "node:fs";
 
-const entry = "One star. Drops everything I own, then acts like it was my fault for letting go.";
-const outDir = process.env.MAKEFUN_OUTPUT_DIR ?? "/output";
-mkdirSync(outDir, { recursive: true });
-writeFileSync(`${outDir}/entry.txt`, entry, "utf8");
+const entry =
+  "One star. Time crawls at work, sprints on holiday, and has never once asked me what I prefer.";
+
+mkdirSync("/output", { recursive: true });
+writeFileSync("/output/entry.txt", entry, "utf8");
