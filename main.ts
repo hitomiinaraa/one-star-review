@@ -1,3 +1,4 @@
+// Revision pass: entry text unchanged; this header comment and NOTES.md are the revision layer.
 import { mkdirSync, writeFileSync } from "node:fs";
 
 const entry =

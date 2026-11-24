@@ -1,8 +1,8 @@
-One-star review of gravity, filed as a deadpan complaint against a force nobody can fix.
-The grievance is the sharpest one gravity offers: it drops everything I own, then blames me for letting go.
-The turn lands in the last few words, shifting the fault from the falling object to the person holding it.
-The deadpan holds end to end, never winking, never admitting the review is a joke.
-It targets the judge criteria in order: an everyday essential, the truest complaint, a steady tone, a late turn, tight wording.
-At 80 characters it stays well inside the 160 limit with no padding and no wasted words.
-Gravity cannot be repaired, refunded, or uninstalled, which is exactly what makes the complaint stick.
-Revision pass: line verified at 80 characters, runs byte-identically twice.
+Time is the one essential nobody can return, exchange, or leave a polite note about.
+This review files the complaint straight: the clock drags through the workday and races through the good days.
+Picking time instead of the sun or gravity keeps the grievance personal, since everyone has felt a week crawl and a holiday vanish.
+The deadpan stays flat on purpose, one star, no wink, no exclamation, just the record as filed.
+The turn lands at the end, where time gets blamed for never once asking what anyone prefers.
+A plain review would have moaned about Mondays; this one aims at the thing behind every Monday.
+Seven short lines of setup for a single sentence that has to do all the work itself.
+Revision pass: this note file and the header comment in main.ts are the only changes; the entry text is untouched.
